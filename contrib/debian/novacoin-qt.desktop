@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BubbleZcoin
+Comment=BubbleZcoin P2P Cryptocurrency
+Comment[fr]=BubbleZcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BubbleZcoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/BubbleZcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/BubbleZcoin;
+Categories=Office;

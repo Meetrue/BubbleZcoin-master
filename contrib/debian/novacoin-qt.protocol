@@ -1,0 +1,11 @@
+[Protocol]
+exec=BubbleZcoin-qt '%u'
+protocol=BubbleZcoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
